@@ -22,5 +22,6 @@
   "dependencies": {
     "comlink": "^4.4.1",
     "react": "^16.1.0"
-  }
+  },
+  "gitHead": "8d67dbdfdeb36bc3b510a3438f370db6a824941c"
 }
