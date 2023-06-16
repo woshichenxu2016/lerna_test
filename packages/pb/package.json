@@ -1,0 +1,26 @@
+{
+  "name": "pb",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "chenxu.cyh <chenxu.cyh@bytedance.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/pb.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://bnpm.byted.org/"
+  },
+  "scripts": {
+    "test": "echo 'pb'"
+  },
+  "dependencies": {
+    "comlink": "^4.4.1",
+    "react": "^16.1.0"
+  }
+}
